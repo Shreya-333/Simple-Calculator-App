@@ -29,8 +29,6 @@ This is a beginner-friendly GUI calculator built using **Python** and **Tkinter*
 4. Run this:
 
 ```bash
-python calculator.py
----
 
 ## 📜 License
 
