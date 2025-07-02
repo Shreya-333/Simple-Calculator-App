@@ -30,4 +30,12 @@ This is a beginner-friendly GUI calculator built using **Python** and **Tkinter*
 
 ```bash
 python calculator.py
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to use or modify it for learning or development purposes.
+
 
